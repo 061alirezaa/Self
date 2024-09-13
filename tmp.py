@@ -30,7 +30,7 @@ main_admin_id = '7244846730'
 linkdoni_list = ["@ES_GP0","@AccZanibermuda","@Rogue_middle","@roguegroup","@linkdoni24h","@liinkdooniiraniian","@LinkdoniCactus","@Li_mc","@linkdooni_iraniann", ]
 
 # لیست پیام های پیام خودکار را اینجا قرار بده میتونید هر چقد که میخواید اضافه کنید. ","," با اینا.
-auto_chat_texts = ["
+auto_chat_texts = [
                    
 +682 50545 🇨🇰 60 trx , 550 toman 
 
@@ -45,7 +45,7 @@ Username list:
 @cs6ss 
 Price : offer
 
-@khiremat "]
+@khiremat ]
 auto_forward_message = None
 
 auto_send_message = None
